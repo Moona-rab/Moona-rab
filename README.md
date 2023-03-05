@@ -1,16 +1,62 @@
-### Hi there 👋
 
-<!--
-**Moona-rab/Moona-rab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Let's Connect and have a Chat! <a href="https://www.linkedin.com/in/moona-rab/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a> 
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src= "https://giphy.com/embed/RbDKaczqWovIugyJmW">
+</p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Moona Rab
+located_in: London
+
+education:
+  [
+    "Hyperion Dev Bootcamp",
+    "Bachelor's in Physics",
+  ]
+
+
+fields_of_interests:
+  [
+    "Data Analysis",
+    "Data Science",
+    "Machine Learning",
+    
+  ]
+technical_background:
+  [
+    "Technical Business Analysis",
+  ]
+  
+currently_learning: ["Data Analysis & Insight, Data Visualisation"]
+2023 Goals: ["Become Google Cloud Certified and Learn Javascript"]
+hobbies: ["Dancing", "Art", "Poetry", "Boxing"]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+</p>
+
+---
+
