@@ -1,21 +1,23 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat! <a href="https://www.linkedin.com/in/moona-rab/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a> 
-</h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI2YjQ2N2I1OTkzOGU3NjM2NTM1NmVhYjA0NjJkM2ViNGM4NGEyZSZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
 
+## Let's Connect and have a Chat!
+
+<a href="https://www.linkedin.com/in/moona-rab/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a> 
+
 
 ---
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
