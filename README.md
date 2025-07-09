@@ -44,8 +44,8 @@ technical_background:
     "Technical Business Analysis",
   ]
   
-currently_learning: ["Data Analysis & Insight, Data Visualisation"]
-2023 Goals: ["Become Google Cloud Certified and Learn Javascript"]
+currently_learning: ["Python, Data structures, Algorithms, Agentic AI, ML"]
+2025 Goals: ["Become a software Engineer and Cloud Certification]
 hobbies: ["Dancing", "Art", "Poetry", "Boxing"]
 ```
   
